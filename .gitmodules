@@ -1,6 +1,0 @@
-[submodule "frontend"]
-	path = frontend
-	url = git@github.com:islam-cmd/terrible-website.git
-[submodule "backend"]
-	path = backend
-	url = git@github.com:mt-fns/terrible-idea-app.git
